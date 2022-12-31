@@ -1,1 +1,1 @@
-# Whatsapp Static Clone
+# WhatsApp Static Clone
