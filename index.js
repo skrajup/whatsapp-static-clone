@@ -83,6 +83,9 @@ chats_mini_desc.forEach(desc=>{
                             </div>`
 })
 
+// set default chat rendering
+content_box.innerHTML = chat_template_html
+
 status_mini_desc.forEach(desc=>{
     var preview = `<img src=${desc.mini_preview.url} alt="" width="100%">`
     var seen_class = ""
