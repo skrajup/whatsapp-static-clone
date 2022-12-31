@@ -11,13 +11,13 @@ const calls_btn = document.querySelector(".call-btn")
 const content_box = document.querySelector(".content")
 
 var chats_mini_desc = [
-    {dp: {isAvail: 0, url:`<i class="fa-solid fa-circle-user"></i>`}, name: "UNSC", time: "Yesterday", recent: "+91 98%%%%%%%%: Russia Ukrane War...", pin: `<i class="fa-solid fa-thumbtack"></i>`},
+    {dp: {isAvail: 0, url:`<i class="fa-solid fa-circle-user"></i>`}, name: "UNSC", time: "Yesterday", recent: "+91 98%%%%%%: Russia Ukrane War...", pin: `<i class="fa-solid fa-thumbtack"></i>`},
     {dp: {isAvail: 0, url:`<i class="fa-solid fa-circle-user"></i>`}, name: "dummy", time: "08:56", recent: `Myself: <i class='fa-solid fa-image chat-photo-icon'></i> Photo`, pin: `<i class="fa-solid fa-thumbtack"></i>`},
     {dp: {isAvail: 1, url:"./assets/musk.png"}, name: "Elon Musk", time: "online", recent: "I am gonna ruin twitter", pin: `<i class="fa-solid fa-thumbtack"></i>`},
-    {dp: {isAvail: 1, url:"./assets/modi.png"}, name: "Narendra Modi", time: "Yesterday", recent: "Mere pyare deshvasio, ye jo rahul gandhi...", pin: ``},
+    {dp: {isAvail: 1, url:"./assets/modi.png"}, name: "Narendra Modi", time: "Yesterday", recent: "Mere pyare deshvasio, ye jo rahul...", pin: ``},
     {dp: {isAvail: 1, url:"./assets/messi.png"}, name: "Lionel Messi", time: "online", recent: "Ad hg sgggteyy porte gola gs...", pin: ``},
     {dp: {isAvail: 1, url:"./assets/mbappe.png"}, name: "Kylian Mbappe", time: "14:45", recent: "I am the most gole scorer in FIFA 2022...", pin: ``},
-    {dp: {isAvail: 1, url:"./assets/rahul.png"}, name: "Rahul Gandhi", time: "online", recent: "Mai pappu hu", pin: ``},
+    {dp: {isAvail: 1, url:"./assets/rahul.png"}, name: "Rahul Gandhi", time: "online", recent: "Maza aaya, aur ye jo mja...", pin: ``},
     {dp: {isAvail: 1, url:"./assets/nikola.png"}, name: "Nikola Tesla", time: "Yesterday", recent: "You: Hi how are you?", pin: ``},
     {dp: {isAvail: 1, url:"./assets/ronaldo.png"}, name: "Cristiano Ronaldo", time: "12:00", recent: "Tus sas jjs saxsa hgsa...", pin: ``},
 ]
